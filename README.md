@@ -16,5 +16,5 @@ Load mapping as a Sound into a Pad via the browser and use the mappings via the 
 | ----------------- | ------------------------------------------------------------------------------------------------------------------- |
 | Arturia Minifreak | For FW Version 2.0+. Enable Program Changes in the Midi Menu on the device, if you want to control them externally. |
 | Korg Minilogue XD | Made by [Crybo Synth Sounds](https://www.youtube.com/watch?v=iT-_8rAE6-A)                                           |
-|                   |
+| Korg NTS-1        |
 |                   |                                                                                                                     |
