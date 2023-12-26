@@ -10,9 +10,9 @@ Native Instruments/Maschine 2/Sounds
 
 ## Mappings
 
-| Device       | Comments                                                                                                    |
-| ------------ | ----------------------------------------------------------------------------------------------------------- |
-| Minifreak    | For FW Version 2.0. Enable Program Changes in the Menu on the device, if you want to control them via Midi. |
-| Minilogue XD | Made by [Crybo Synth Sounds](https://www.youtube.com/watch?v=iT-_8rAE6-A)                                   |
-|              |
-|              |                                                                                                             |
+| Device            | Comments                                                                                                            |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------- |
+| Arturia Minifreak | For FW Version 2.0+. Enable Program Changes in the Midi Menu on the device, if you want to control them externally. |
+| Korg Minilogue XD | Made by [Crybo Synth Sounds](https://www.youtube.com/watch?v=iT-_8rAE6-A)                                           |
+|                   |
+|                   |                                                                                                                     |
