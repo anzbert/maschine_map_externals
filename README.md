@@ -6,7 +6,9 @@ A collection of Maschine Midi Mappings for some of my devices. Mappings work on 
 
 To use, copy to this folder:
 
-Native Instruments/Maschine 2/Sounds
+`Native Instruments/Maschine 2/Sounds`
+
+Load mapping as a Sound into a Pad via the browser and use the mappings via the Macro menu. Make sure to set the correct Midi Device and Channel in the Channel Settings.
 
 ## Mappings
 
