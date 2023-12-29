@@ -4,7 +4,7 @@ A collection of Maschine Midi Mappings for external gear. Mappings work on Masch
 
 ## Installation
 
-To use, copy to this folder on your computer or Maschine Plus SD card:
+To use, download the required mapping from the Mappings folder to this folder on your computer or Maschine Plus SD card:
 
 `Native Instruments/Maschine 2/Sounds`
 
