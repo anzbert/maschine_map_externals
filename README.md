@@ -15,7 +15,7 @@ Load mapping as a Sound into a Pad via the browser and use the mappings via the 
 | Device Mapping        | Info                                                                                                                                                                                   |
 | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | MAP ALL CCs           | This is a universal mapping, which includes all mappable Midi values in Maschine. ProgramChange and all CCs 0-127.                                                                     |
-| Arturia Minifreak 2.0 | For FW Version 2.0+. Enable Program Changes in the Midi Menu on the device, if you want to control them externally.                                                                    |
+| Arturia Minifreak 2.0 | For FW Version 2.0+. Enable Program Changes in the Midi Menu on the device, if you want to control preset selection externally.                                                        |
 | Korg Minilogue XD     | Made by [Crybo Synth Sounds](https://www.youtube.com/watch?v=iT-_8rAE6-A)                                                                                                              |
 | Korg NTS-1            |
 | Digitakt 1.51 Track   | Control Settings on the built-in sampler tracks 1-8. The default MIDI Channels on the Digitakt for these tracks are 1-8.                                                               |
