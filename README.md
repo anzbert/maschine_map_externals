@@ -25,3 +25,7 @@ Load mapping as a Sound into a Pad via the browser and use the mappings via the 
 | Novation Peak         | Made by [Crybo Synth Sounds](https://www.youtube.com/watch?v=6yqgPkWPHl4)                                                                                                                                                                                                                                                  |
 | Hydrasynth            | Made by [Crybo Synth Sounds](https://www.youtube.com/watch?v=BRC1RV1-Bgw)                                                                                                                                                                                                                                                  |
 |                       |                                                                                                                                                                                                                                                                                                                            |
+
+## Credits
+
+A massive credit goes of course to [Crybo](https://www.youtube.com/@crybo) for making his mappings available on Youtube.
