@@ -1,10 +1,14 @@
 # Maschine Midi Mappings for External Devices
 
-A collection of Maschine Midi Mappings for external gear. Mappings work on Maschine Plus standalone. Please let me know if you have created other MIDI mappings for Maschine. Contributors are very welcome and I am happy to share the ownership of this repository with other creators!
+Maschine already contains are large, yet incomplete, selection of MIDI mappings for external devices in the Sounds and Groups, tagged as 'Midi Ext'. This mapping repository is supposed to fill the gaps left by Native Instruments.
+
+# Contribute
+
+Please let me know if you have created other MIDI mappings for Maschine. Contributors are very welcome and I am happy to share this repository with other creators for the sake of the Maschine community!
 
 ## Installation
 
-To use, download the required mapping from the Mappings folder to this folder on your computer or Maschine Plus SD card:
+To use any mapping, download the required file from the Mappings folder to the following folder on your computer, or Maschine Plus SD card for standalone use:
 
 `Native Instruments/Maschine 2/Sounds`
 
