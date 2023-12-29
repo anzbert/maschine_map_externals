@@ -8,11 +8,15 @@ Please let me know if you have created other MIDI mappings for Maschine. Contrib
 
 ## Installation
 
-To use any mapping, download the required file from the Mappings folder to the following folder on your computer, or Maschine Plus SD card for standalone use:
+1. To use a specific mapping, download the required file from the Sounds or Groups folder to the following folder on your computer, or Maschine Plus SD card for standalone use:
 
 `Native Instruments/Maschine 2/Sounds`
 
-Load mapping as a Sound into a Pad via the browser and use the mappings via the Macro menu. Make sure to set the correct Midi Device and Channel in the Channel Output Settings.
+or
+
+`Native Instruments/Maschine 2/Groups`
+
+2. Load mapping via drag and drop or the browser and use the mappings via the Macro menu. The mappings will be under 'USER', since they are not provided by NI. Make sure to set the correct Midi Device and Channel in the Channel Output Settings.
 
 Make sure to use the latest firmware for your external gear, since manufacturers sometimes add MIDI communication capabilities in newer versions. The firmware the mapping was designed for is listed in brackets in the list below.
 
