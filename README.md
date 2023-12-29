@@ -16,6 +16,10 @@ or
 
 `Native Instruments/Maschine 2/Groups`
 
+Alternaively, you can download all mappings by copying the whole repository into this folder:
+
+`Native Instruments/Maschine 2`
+
 2. Load mapping via drag and drop or the browser and use the mappings via the Macro menu. The mappings will be under 'USER', since they are not provided by NI. Make sure to set the correct Midi Device and Channel in the Channel Output Settings.
 
 Make sure to use the latest firmware for your external gear, since manufacturers sometimes add MIDI communication capabilities in newer versions. The firmware the mapping was designed for is listed in brackets in the list below.
