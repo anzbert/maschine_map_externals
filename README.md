@@ -56,6 +56,6 @@ It's best to use the latest firmware for your external gear, since manufacturers
 
 ## Credits
 
-- [Crybo](https://www.youtube.com/@crybo) for making his mappings available on Youtube.
+- [Crybo](https://www.youtube.com/@crybo) for making his mappings available on Youtube and the Maschine forum.
 - [ozon](https://community.native-instruments.com/profile/36333/ozon) for sharing his mapping on the Maschine forum.
 - [polynil](https://community.native-instruments.com/profile/polynil) for sharing his mapping on the Maschine forum.
