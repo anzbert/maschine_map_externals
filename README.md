@@ -41,8 +41,9 @@ It's best to use the latest firmware for your external gear, since manufacturers
 | Korg NTS-1                       | Default Channel is 1 on the NTS-1.                                                                                                                                                                                                                                                                                   |
 | Novation Peak                    | Made by [Crybo](https://www.youtube.com/@crybo). Check this [video](https://www.youtube.com/watch?v=6yqgPkWPHl4) on Youtube!                                                                                                                                                                                         |
 | Roland SP404MK2 (3.0+)           | Basic mapping, due to the limited implentation on the SP. Adressable channels are 1: FX1, 2: FX2, 3: FX3, 4:FX4 and 5: InputFX. For Pattern Select Channel 1-10 equal Groups A-J. Chromatic playing only works in Chromatic mode on channel 16. The SP doesn't send CC back to the Maschine when adjusting FX on it. |
-|                                  |                                                                                                                                                                                                                                                                                                                      |
+| Roland SE-02                     | Made by [ozon](https://community.native-instruments.com/profile/36333/ozon). You can provide feedback in the NI forum [here](https://community.native-instruments.com/discussion/comment/125532).                                                                                                                    |
 
 ## Credits
 
-A massive credit goes of course to [Crybo](https://www.youtube.com/@crybo) for making his mappings available on Youtube.
+- [Crybo](https://www.youtube.com/@crybo) for making his mappings available on Youtube.
+- [ozon](https://community.native-instruments.com/profile/36333/ozon) for sharing his mapping on the Maschine forum.
